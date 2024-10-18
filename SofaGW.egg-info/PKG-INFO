@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: SofaGW
+Version: 1.0.8
+Summary: Use SOFA framework for guidewire navigation.
+Home-page: https://github.com/candi4/SofaGuidewireNav.git
+Author: candi4
+Requires-Dist: numpy
+Requires-Dist: pygame
+Requires-Dist: PyOpenGL
+Requires-Dist: scipy
+Requires-Dist: pillow
+Requires-Dist: opencv-python

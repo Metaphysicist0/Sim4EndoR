@@ -1,0 +1,17 @@
+README.md
+setup.py
+SofaGW/ImageProcessing.py
+SofaGW/Test.py
+SofaGW/__init__.py
+SofaGW/utils.py
+SofaGW.egg-info/PKG-INFO
+SofaGW.egg-info/SOURCES.txt
+SofaGW.egg-info/dependency_links.txt
+SofaGW.egg-info/requires.txt
+SofaGW.egg-info/top_level.txt
+SofaGW/simulation/SimClient.py
+SofaGW/simulation/SimServer.py
+SofaGW/simulation/__init__.py
+SofaGW/simulation/scene.py
+SofaGW/vessel/carotids.stl
+SofaGW/vessel/phantom.obj
